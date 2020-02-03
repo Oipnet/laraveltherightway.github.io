@@ -1,27 +1,21 @@
 ---
-title:   How to read this guide
+title:   Comment lire ce guide
 isChild: true
 anchor:  how-to-read-this-guide
 ---
 
-## How to read this guide {#how-to-read-this-guide}
+## Comment lire ce guide {#how-to-read-this-guide}
 
-This guide is divided into several sections such as each one tries to group related conventions. For example, all database-related convention is grouped in the same section. Each of the convention have the following keywords, which indicates how important it is to comply with such convention:
+Ce guide est divisé en plusieurs parties à l'intérieur desquels nous essayons de regrouper les conventions liées. Par exemple, toutes les conventions liées à la base de données sont regroupées à l'intérieur de la meme rubrique. Chaque convention ont les mots clé suivants, qui indique a quel point il est important d'appliquer cette convention.
 
-* **MUST**   This word, or the terms "REQUIRED" or "SHALL", mean that the
-   definition is an absolute requirement of the specification.
-* **MUST NOT**   This phrase, or the phrase "SHALL NOT", mean that the
-   definition is an absolute prohibition of the specification.
-* **SHOULD**   This word, or the adjective "RECOMMENDED", mean that there
-   may exist valid reasons in particular circumstances to ignore a
-   particular item, but the full implications must be understood and
-   carefully weighed before choosing a different course.
-* **SHOULD NOT**   This phrase, or the phrase "NOT RECOMMENDED" mean that
-   there may exist valid reasons in particular circumstances when the
-   particular behavior is acceptable or even useful, but the full
-   implications should be understood and the case carefully weighed
-   before implementing any behavior described with this label.
-* **MAY**   This word, or the adjective "OPTIONAL", mean that an item is
-   truly optional.
+* **MUST**   Ce mot, ou les termes "REQUIS", signifie que la definition est un prérequis absolu issue des spécifications.
 
-the above specifications is derived from [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt){:target="_blank"}
+* **MUST NOT**   Cette phrase, signifie que la definition est une interdiction absolu issue des spécifications.
+
+* **SHOULD**   Ce mot, ou l'adjectif "RECOMMANDE", signifie qu'il peut exister des raisons dans des cas particulier d'ignorer un point particulier, mais l'ensemble des implications doivent être comprise et attentivement être mesurée avant de choisir un procédé différent.
+
+* **SHOULD NOT**   Cette phrase, ou la phrase "NON RECOMMANDE" signifie qu'il peut exister des raisons dans des cas particulier ou le comportement particulier est acceptable voir meme utile, mais l'ensemble des implications doivent être comprise et attentivement être mesurée avant d'implementer n'importe quel comportement décrit avec ce label.
+
+* **MAY**   Ce mot, ou l'adjectif "OPTIONEL", signifie que cet élément est complètement optionnel.
+
+Cette spécification est issue de [RFC 2119](https://www.ietf.org/rfc/rfc2119.txt){:target="_blank"}

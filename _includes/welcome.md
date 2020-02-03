@@ -1,11 +1,12 @@
-# Welcome
+# Bienvenue
 
-This site serves as a guide for those who is using Laravel Framework by Taylor Otwell and its contributors. <br/>
-**Laravel : Best Practices** aims to put together all the resources and best practices in using the Laravel Framework.
+Ce site est un guide pour ceux souhaitant utiliser le Framework Laravel de Taylor Otwell et ses contibuteurs. <br/>
 
-Laravel Framework is not strict on how and where you define your classes as long as it could be loaded by Composer. This is a double-sided blade -- it's beneficial for advanced developers, but could be confusing for beginners and for those who is trying to reverse engineer an existing codebase. The ability to place anything, anywhere is good. But there are times some methods is way better than the others, and that is what we are after. This site tried to collect all the best practices, tools and methodologies, so that it could serve a guide for beginners and existing developers alike.
+**Laravel : Bonnes pratiques** a pour objectif de mettre a disposition de tous les ressources et les bonnes pratique d'utilisation du framework Laravel
 
-This is a living document and will continue to be updated with more helpful information and examples as they become available.
+Le framework Laravel n'est pas strict sur le comment et où definir vos classe du moment quel peuvent ête chargée avec Composer. C'est une arme a double tranchant -- C'est bénéfique pour les developpeurs confirmé, mais source de confusion pour un débutant ainsi que ceux qui doivent maintenir une application existante. La possibilité de placer tout n'importe ou est une bonne chose. Mais il y a des fois ou certaines methodes sont meileures que d'autre, et c'est ceux que nous verrons par la suite. Ce site tente de collecter toutes les bonnes pratiques, outils et methodes, c'est pour cela qu'il peut servir de guide pour les débutant ainsi que les developpeur expérimenté.
+
+C'est un document vivant et il contineura à être mos a jour avec plus d'informations utiles et d'exemple tant qu'il seront valable.
 
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -19,28 +20,27 @@ This is a living document and will continue to be updated with more helpful info
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-## Translations
+## Traductions
 
-Laravel: The Best Practices is currently available in the following languages. Please contribute to the project so that it could support multiple languages.
+Leravel : The Best Practice est actuellement disponible dans les langages suivants. S'il vous plais contribuez au projet afin qu'il puisse supporter différents langages.
 
 * [English](http://www.laravelbestpractices.com)
 * [Russian](http://vanadium23.github.io/laraveltherightway.github.io/)
 * [Chinese](http://bluegeek.github.io/laraveltherightway/)
 
-## How to Contribute
+## Comment contribuer
 
-Help make this website the best resource for new PHP programmers! [Contribute on GitHub][1]
+Aidez nous à rendre ce site la meilleure ressource pour les nouveau developpeurs! [Contribute on GitHub][1]
 
-## Spread the Word!
+## Faites passer le message!
 
-_Laravel Best Practices_ has web banner images you can use on your website. Show your support, and let new PHP developers
-know where to find good information!
+_Laravel Best Practices_ a des bannière que vous pouvez utiliser sur votre site web. Regardez notre support, et permettez a de nouveau developpeur PHP de savoir ou trouver la bonne information!
 
-[See Banner Images][2]
+[Voir les bannière][2]
 
 [1]: https://github.com/laraveltherightway/laraveltherightway.github.io
 [2]: /banners.html
 
-## Download the Android Application
+## Télécharger l'application Android
 
-[![Get it in Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
+[![Obtenez la avec Google Play](/images/get-it-on-google-play-icon-logo.png)](https://play.google.com/store/apps/details?id=com.buonzz.com.laravelbestpractices)
